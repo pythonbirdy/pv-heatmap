@@ -24,7 +24,7 @@ pv_heatmap/
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/pv_heatmap.git
+git clone https://github.com/pythonbirdy/pv_heatmap.git
 cd pv_heatmap
 
 Create a virtual environment (recommended):
